@@ -1,0 +1,140 @@
+
+body{
+    
+font-family: open sans ,sans-serif;
+ background: #e2e2e2;
+ margin: 0px;
+ padding: 20px;
+}
+
+
+.cabecalho { 
+width: 1440px;
+display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    position: static;
+   
+    height: 115px;
+    left: 0px;
+    top: 0px;
+}
+
+.cabecalho__navegacao {
+   display: flex; 
+   flex-direction: row;
+   align-items: center;
+  
+   padding: 32px, 0px;
+   width: 1136px;
+   height: 115px;
+
+}
+
+.cabecalho__logo {
+   
+    width: 40.02px;
+    line-height: 29.17px;
+    top: 10.42px;
+    left: 4.99px;
+   
+}
+   
+.cabecalho__logo1 {
+    width: 63.1px;
+    height: 18.5px;
+     
+}
+
+.cabecalho__logo2 {
+width: 61.29px;
+height: 18.5px;
+left: 64.71px;
+}
+
+
+.input-container{
+    position: absolute;
+}
+
+input{
+   border:#ddd solid 1px;
+   float:left;
+   padding:5px 20px 5px 5px;
+   width: 393px;
+    height: 40px;
+    margin-left:15px;
+    border-radius: 20px;
+}
+
+.botaologing{
+position: static;
+    width: 114px;
+    height: 37px;
+    margin-top: 2px;
+    margin-left: 262px;
+    border: 0.1rem solid #2A7AE4;
+    background: #F5F5F5;
+}
+
+ a{
+    text-decoration: none;
+ } 
+    
+ .fa-search{
+    float: left;
+    margin-left: -56px;
+    margin-top: 12px;
+    content: "\f002";
+     color: #a2a2a2;
+ }
+
+.botaoLupa{
+    border: none;
+    background: #e2e2e2;
+ }
+
+.imagemPrincipal{
+    width: 1440px;
+    height: 352px;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: center;
+    padding: 32px, 0px;
+    margin-left: -20px;
+}
+.tituloStarWars{
+width: 148px;
+    height: 0px;
+    top: 0px;
+    font-family: releway;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    margin-left: 154px;
+}
+.containe{
+ display: flex;
+ justify-items:center ;
+ justify-content: space-around;
+ align-items:flex-end 
+
+ 
+}
+#botaoVertudo{
+  margin-left: 491px;
+  width: 66px;
+  height: 19px;
+  left: 0px;
+  top: 2.5px;
+}
+#ventorSeta{
+
+
+}
+img{
+    margin-left:30px ;
+}
