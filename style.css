@@ -136,7 +136,7 @@ width: 148px;
 
 }
 img{
-    width: 940% ;
+    
 }
 
 
@@ -147,12 +147,12 @@ body{
     display: flex;
     flex-direction: column;
     font-size: 2rem;
-    width: :940%;
+   
 }
 img{
     display: flex;
     flex-direction: column;
-    
+    width: 940%;
 }
 main{
 display: flex;
@@ -160,8 +160,12 @@ flex-direction: column;
 margin: 0px;
 }
 html{
-
-        font-size:7rem;
+display: flex;
+flex-direction: column;
+        font-size:3rem;
 }
+
+
+
 
 }
