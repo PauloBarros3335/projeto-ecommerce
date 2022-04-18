@@ -136,5 +136,32 @@ width: 148px;
 
 }
 img{
-    margin-left:30px ;
+    width: 940% ;
+}
+
+
+/*repositivo*/
+
+@media(max-width: 940px){
+body{
+    display: flex;
+    flex-direction: column;
+    font-size: 2rem;
+    width: :940%;
+}
+img{
+    display: flex;
+    flex-direction: column;
+    
+}
+main{
+display: flex;
+flex-direction: column;
+margin: 0px;
+}
+html{
+
+        font-size:7rem;
+}
+
 }
